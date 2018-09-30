@@ -1,0 +1,28 @@
+Push:
+
+In order to start sharing our changes with others, we have to push them to a remote repository using the "push" command. This will cause the remote repository to update and synchronize with our local repository.
+
+
+
+Pull:
+
+When somebody pushes their changes to the shared remote repository, your local repository becomes out of date.
+Do a "pull" operation to pull the changes from the remote repository onto your local repository.
+When pull is executed, the latest revision history is downloaded from the remote repository and imported to your local repository.
+
+
+
+Pull request:
+
+Create a pull request to propose and collaborate on changes to a repository. These changes are proposed in a branch, which ensures that the master branch only contains finished and approved work.
+
+Pull requests let you tell others about changes you've pushed to a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before the changes are merged into the repository.
+
+To create PR:
+
+1. On GitHub, navigate to the main page of the repository.
+2. In the "Branch" menu, choose the branch that contains your commits.
+3. To the right of the Branch menu, click New pull request.
+4. Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.
+5. Type a title and description for your pull request.
+6. Click Create pull request.
