@@ -1,0 +1,13 @@
+Remote:
+
+Remote repositories are versions of your project that are hosted on the Internet or network somewhere. It may be on your local computer.
+Remote Repository resides on a remote server that is shared among multiple team members.
+"git remote command" lists the shortnames of each remote handle you’ve specified. If you’ve cloned your repository, you should at least see origin – that is the default name Git gives to the server you cloned from
+
+"git branch -r" will list the remote branch.
+
+
+
+Commits:
+
+The "commit" operation enables you to record changes that were made to a file or directory in the Git history.By commiting every change made, you will be able to view all changes chronologically in the respective file or directory.
